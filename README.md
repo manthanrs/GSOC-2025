@@ -1,4 +1,4 @@
 # GSOC-2025
 Google Summer of Code 2025
 <br> 
-Author - Manthan Sawsakde
+Author - Manthan Rushi Sawsakde 
